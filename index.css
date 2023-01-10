@@ -1,0 +1,203 @@
+h1 {
+    font-size:medium
+}
+.div-1 { display: flex; }
+.div-11 { 
+    background-color: red;
+    width: 50%; 
+    height: 20px;
+}
+.div-12 {
+    background-color: blue; 
+    width: 50%; 
+    height: 20px;
+}
+.div-2 { display: flex; }
+.div-21 {
+    background-color: green;
+    width: 90%; 
+    height: 20px;
+}
+.div-22 {
+    background-color: blue; 
+    width: 10%; 
+    height: 20px;
+}
+.div-3 { display: flex; }
+.div-31 {
+    background-color: red; 
+    width: 10%; 
+    height: 20px;
+}
+.div-32 {
+    background-color: green;
+    width: 80%; 
+    height: 20px;
+}
+.div-33 {
+    background-color: blue; 
+    width: 10%; 
+    height: 20px;
+}
+.div-4 { display: flex; }
+.div-41 {
+    background-color: red;
+    width: 90%; 
+    height: 20px;
+}
+.div-42 {
+    background-color: blue; 
+    width: 10%; 
+    height: 20px;
+}
+
+.div-5 {
+    background-color: green;
+    width: 100%; 
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-51 {
+    background-color: red; 
+    width: 15px; 
+    height: 15px;
+   
+}
+.div-6 {
+    background-color: red;
+    width: 100%; 
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-61 {
+    background-color: blue; 
+    width: 30px; 
+    height: 20px;
+}
+.div-7 { display: flex; }
+.div-71 { 
+    background-color: red;
+    width: 10%; 
+    height: 21px;
+}
+.div-72 {
+    background-color: blue;
+    width: 90%; 
+    height: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-721 {
+    background-color: green; 
+    width: 100%; 
+    height: 7px;
+}
+
+.div-8 {
+    background-color: green;
+    width: 100%; 
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-81 {
+    background-color: yellow; 
+    width: 5%;
+    height: 20px;  
+}
+.div-82 {
+    background-color: yellow; 
+    width: 5%; 
+    height: 20px; 
+}
+.div-83 {
+    background-color: yellow; 
+    width: 5%; 
+    height: 20px; 
+}
+.div-84 {
+    background-color: yellow; 
+    width: 5%; 
+    height: 20px; 
+}
+.div-85 {
+    background-color: yellow; 
+    width: 5%; 
+    height: 20px; 
+}
+.div-9 {
+    background-color: yellow;
+    width: 100%; 
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div-91 {
+    background-color: green; 
+    width: 1%; 
+    height: 20px;
+}
+.div-92 {
+    background-color: green; 
+    width: 1%; 
+    height: 20px;
+}
+.div-93 {
+    background-color: green; 
+    width: 1%; 
+    height: 20px;
+}
+.div-94 {
+    background-color: green; 
+    width: 1%; 
+    height: 20px;
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+    .div-81 {
+        display: flex;
+        background-color: yellow; 
+        width: 19.5%; 
+        height: 20px; 
+    }
+    .div-82 {
+        display: flex;
+        background-color: yellow; 
+        width: 19.5%; 
+        height: 20px;
+    }
+    .div-83 {
+        display: flex;
+        background-color: yellow; 
+        width: 19.5%; 
+        height: 20px;
+    }
+    .div-84 {
+        display: flex;
+        background-color: yellow; 
+        width: 19.5%; 
+        height: 20px;
+    }
+    .div-85 {
+        display: flex;
+        background-color: yellow; 
+        width: 19.5%; 
+        height: 20px;
+    }
+    .div-9 {
+        background-color: yellow;
+        width: 100%; 
+        height: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+}
